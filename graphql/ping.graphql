@@ -1,0 +1,3 @@
+query getPing {
+  ping
+}
